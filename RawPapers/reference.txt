@@ -1,0 +1,9 @@
+参考文章
+
+https://www.zhihu.com/collection/755595307
+https://zhuanlan.zhihu.com/p/375980125
+https://zhuanlan.zhihu.com/p/81618000
+
+
+参考代码
+https://github.com/shenweichen/DeepCTR
