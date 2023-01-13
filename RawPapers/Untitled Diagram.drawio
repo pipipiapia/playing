@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T14:58:15.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.4" etag="VYGMLJZEREtB3eHTotjm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T15:00:34.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.4" etag="g7TGOotdLJics2xRFEt2" type="github">
   <diagram id="9y7WMAi7yj_Zv_UnIAZh" name="Page-1">
-    <mxGraphModel dx="1064" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rWHO5e8xibpQwG25a63N-5" value="Two-stage Object Detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="30" width="170" height="40" as="geometry" />
+          <mxGeometry x="550" y="30" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rWHO5e8xibpQwG25a63N-6" value="One-stage Object Detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="100" width="170" height="40" as="geometry" />
+          <mxGeometry x="550" y="100" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
