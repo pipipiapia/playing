@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T14:04:30.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="oEBe0oVrTZCC_JX9zoUM" type="github"><diagram id="tuDLjb8Uk6HApCPIIlid">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-13T14:58:15.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.4" etag="VYGMLJZEREtB3eHTotjm" type="github">
+  <diagram id="9y7WMAi7yj_Zv_UnIAZh" name="Page-1">
+    <mxGraphModel dx="1064" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rWHO5e8xibpQwG25a63N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWHO5e8xibpQwG25a63N-2" target="rWHO5e8xibpQwG25a63N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWHO5e8xibpQwG25a63N-2" target="rWHO5e8xibpQwG25a63N-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-2" value="Technology in Object Detection for AVs&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 175.247px; top: 871.637px; font-size: 15.9011px; font-family: sans-serif; transform: scaleX(1.31769);&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt;ECHNOLOGY IN&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 305.732px; top: 871.637px; font-size: 15.9011px; font-family: sans-serif;&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt; &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 311.678px; top: 868.521px; font-size: 19.8764px; font-family: sans-serif;&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt;O&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 327.023px; top: 871.637px; font-size: 15.9011px; font-family: sans-serif; transform: scaleX(1.34992);&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt;BJECT&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 377.779px; top: 871.637px; font-size: 15.9011px; font-family: sans-serif;&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt; &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 383.729px; top: 868.521px; font-size: 19.8764px; font-family: sans-serif;&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt;D&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 399.073px; top: 871.637px; font-size: 15.9011px; font-family: sans-serif; transform: scaleX(1.31148);&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt;ETECTION FOR&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 522.498px; top: 871.637px; font-size: 15.9011px; font-family: sans-serif;&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt; &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 528.448px; top: 868.521px; font-size: 19.8764px; font-family: sans-serif; transform: scaleX(1.233);&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt;AV&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; text-align: start; background-color: rgb(255, 255, 255); left: 556.453px; top: 871.637px; font-size: 15.9011px; font-family: sans-serif;&quot; dir=&quot;ltr&quot; role=&quot;presentation&quot;&gt;S&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWHO5e8xibpQwG25a63N-3" target="rWHO5e8xibpQwG25a63N-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWHO5e8xibpQwG25a63N-3" target="rWHO5e8xibpQwG25a63N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-3" value="2D Object Detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-4" value="3D Object Detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-5" value="Two-stage Object Detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWHO5e8xibpQwG25a63N-6" value="One-stage Object Detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="170" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
